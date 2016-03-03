@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=bash -c 'ssh user@REMOTE_IP'
+Name=ssh
+Terminal=true
+Type=Application
+Name[en_US]=connection.ssh
